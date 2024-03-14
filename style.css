@@ -67,7 +67,7 @@ nav{
 
 
 #land-page{
-    background-image: url("./_resx/landing-background.png");
+    background-image: url("https://raw.githubusercontent.com/RetroGhosty/cdm-tree-planting/main/_resx/landing-background.png");
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 90vh;
